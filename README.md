@@ -7,7 +7,13 @@ React Hook for consume Styled Component `theme`
 
 ## How to use it? 
 
-First you have to provide the theme on `<ThemeProvider>`:
+Get any attribute from theme in React Components
+
+````jsx
+  const myColor = useTheme('colors.myColor')
+
+````
+Example
 
 ````jsx
 
