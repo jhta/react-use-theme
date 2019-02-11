@@ -1,6 +1,6 @@
 {
   "name": "react-use-theme",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "React Hook for use styled components theme",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,10 @@
   ],
   "author": "Jeison Higuita <jeisonhs93@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/jhta/react-use-theme"
+  },
   "dependencies": {
     "react": "^16.8.1",
     "styled-components": "^4.1.3"
